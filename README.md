@@ -34,20 +34,26 @@ This project demonstrates object-oriented programming, event-driven programming,
 - GDI+
 - Visual Studio 2022
 
----
-
 ##  Project Structure
 
+```text
 DrawingApp/
 │
+├── App.config
 ├── Form1.cs
 ├── Form1.Designer.cs
+├── Form1.resx
 ├── Program.cs
-├── App.config
 ├── Properties/
+│   ├── AssemblyInfo.cs
+│   ├── Resources.resx
+│   └── Settings.settings
+├── Screenshots/
+│   ├── main-window.png
+│   ├── drawing.png
+│   
 └── README.md
-
----
+```
 
 ##  How to Run
 
