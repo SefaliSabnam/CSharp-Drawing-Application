@@ -32,7 +32,7 @@ This project demonstrates object-oriented programming, event-driven programming,
 - Windows Forms
 - .NET Framework
 - GDI+
-- Visual Studio 2022
+- Visual Studio 2026
 
 ##  Project Structure
 
