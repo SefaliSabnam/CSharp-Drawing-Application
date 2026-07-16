@@ -49,7 +49,7 @@ DrawingApp/
 │   ├── Resources.resx
 │   └── Settings.settings
 ├── Screenshots/
-│   ├── main-window.png
+│   ├── main-window.jpg
 │   ├── drawing.png
 │   
 └── README.md
@@ -124,19 +124,17 @@ The Drawing Application will launch.
 - ToolStrip
 - StatusStrip
 
----
-
 ##  Screenshots
 
 ### Main Window
 
-(Add Screenshot Here)
+![Main Window](main-window.jpg)
+
+---
 
 ### Drawing Example
 
-(Add Screenshot Here)
-
----
+![Drawing Example](drawing.png)
 
 ##  Learning Outcomes
 
