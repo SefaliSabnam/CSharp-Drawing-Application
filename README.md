@@ -126,16 +126,19 @@ The Drawing Application will launch.
 
 ##  Screenshots
 
-### Main Window
+###  Main Application Window
 
-![Main Window](main-window.jpg)
+The main interface of the Drawing Application showing the menu bar, toolbar, drawing canvas, and status bar.
+
+![Main Application Window](main-window.jpg)
 
 ---
 
-### Drawing Example
+###  Saved Drawing (PNG Output)
 
-![Drawing Example](drawing.png)
+This image was created using the application's **File → Save Image** feature and demonstrates the exported drawing in PNG format.
 
+![Saved Drawing](drawing.png)
 ##  Learning Outcomes
 
 This project demonstrates:
