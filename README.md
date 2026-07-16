@@ -54,7 +54,15 @@ DrawingApp/
 │   
 └── README.md
 ```
+---
 
+# Architecture Diagram
+
+The following diagram illustrates the overall architecture and workflow of the Drawing Application.
+
+![Architecture Diagram](Architecture-Drawing-app.png)
+
+---
 ##  How to Run
 
 1. Clone the repository
