@@ -75,7 +75,7 @@ The Drawing Application will launch.
 
 ---
 
-## 🖌 Application Features
+##  Application Features
 
 ### Shapes
 
@@ -152,11 +152,5 @@ This project demonstrates:
 
 ##  Author
 
-**Sunil Chettri**
+**sefali sabnam**
 
-GitHub:
-https://github.com/YOUR_USERNAME
-
----
-
-## ⭐ If you like this project, give it a Star!
